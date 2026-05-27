@@ -90,6 +90,7 @@ ats-resume/
 
 ---
 
-## 🤝 Contributing
+### 👨‍💻 Author
 
-Contributions are always welcome! Feel free to open issues or submit pull requests to improve layout, parser robustness, or support for additional LLM backends.
+**Anuj Kushwaha**
+BCA Final Year Student
