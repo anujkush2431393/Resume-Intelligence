@@ -92,4 +92,4 @@ ats-resume/
 
 ### 👨💻 Author
 **Anuj Kushwaha**
-BCA Final Year Student
+**BCA Final Year Student**
